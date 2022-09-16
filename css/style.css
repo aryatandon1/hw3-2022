@@ -1,6 +1,6 @@
 Body {
     font-family: Arial, Verdana;
-	margin: 20px, 20px, 0px, 20px;
+	margin: 20px 20px 0px 20px;
     background-color: #000000;
     color: #ffffff
 }
@@ -38,7 +38,7 @@ div {
 .introduction {
     border-radius: 15px;
     line-height: 2;
-    margin-top: 15px 0 0 0;
+    margin: 15px 0 0 0;
 }
 
 .red {
@@ -78,8 +78,6 @@ div {
    text-align: left;
    margin: 0 50px 0 0;
    border-width: 2px 5px 0 0;
-   /* border-left: 0px solid;
-   border-bottom: 0px solid; */
 }
 
 footer {
@@ -93,6 +91,7 @@ footer {
 
 footer p {
     font-size: 20px;
+    color:white;
     text-align: right;
     padding: 15px 15px 15px 0;
 }
